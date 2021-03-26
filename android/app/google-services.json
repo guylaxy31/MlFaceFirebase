@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218170591313",
+    "project_id": "ml-vision-face-detector",
+    "storage_bucket": "ml-vision-face-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218170591313:android:44fb11ac4f510848261070",
+        "android_client_info": {
+          "package_name": "com.example.firebase_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218170591313-c6r920lv749lav055u7cqiags8a6mqeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbD-odk5gWPBNNDSvu4aN8XwzrJZibyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218170591313-c6r920lv749lav055u7cqiags8a6mqeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
